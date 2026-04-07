@@ -23,7 +23,7 @@ This project demonstrates how to significantly reduce GPU VRAM requirements duri
 
 1. **Clone the repository:**
    
-   git clone [https://github.com/YOUR_USERNAME/deepspeed-llm-finetuning.git](https://github.com/YOUR_USERNAME/deepspeed-llm-finetuning.git]
+   git clone [https://github.com/Chennupati242/Large-Scale-LLM-Fine-Tuning-with-DeepSpeed]
    cd deepspeed-llm-finetuning
 2.**Install the required dependencies:**
    sudo apt-get install -y libopenmpi-dev
